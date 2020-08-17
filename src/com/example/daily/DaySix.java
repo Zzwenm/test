@@ -3,6 +3,8 @@ package com.example.daily;
 /**
  * 546. 移除盒子
  * 困难
+ * 1111
+ * 动态规划
  *
  * @author Zzwen
  * @date 2020-8-15 14:57
@@ -15,7 +17,7 @@ public class DaySix {
         int[] res = new int[boxes.length];
         res[0] = 1;
         for (int i = 1; i < boxes.length; i++) {
-            if(boxes[i] == boxes[i-1]){
+            if (boxes[i] == boxes[i - 1]) {
 
             }
         }
