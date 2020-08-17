@@ -15,6 +15,7 @@ public class DaySix {
 
     public int removeBoxes(int[] boxes) {
         int[] res = new int[boxes.length];
+        res[0] = 1;
         for (int i = 1; i < boxes.length; i++) {
             if (boxes[i] == boxes[i - 1]) {
 
