@@ -1,4 +1,4 @@
-package com.example.daily;
+package com.example.daily.August;
 
 import java.util.Arrays;
 

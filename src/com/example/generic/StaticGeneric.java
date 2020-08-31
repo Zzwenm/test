@@ -4,12 +4,13 @@ package com.example.generic;
  * @author Zzwen
  * @date 2020-7-21 14:24
  */
-public class StaticGeneric<T> {
+public class StaticGeneric<A> {
 
-    T data;
+    A data;
 
-    public static<T> void show(T t){
-
+    public static <T> T show(T t){
+        System.out.println(t);
+        return t;
     }
 
 }

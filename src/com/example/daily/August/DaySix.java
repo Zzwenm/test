@@ -1,4 +1,4 @@
-package com.example.daily;
+package com.example.daily.August;
 
 /**
  * 546. 移除盒子
@@ -9,7 +9,6 @@ package com.example.daily;
  * @author Zzwen
  * @date 2020-8-15 14:57
  */
-@Sl4j
 public class DaySix {
 
     //[1,3,2,2,2,3,4,3,1]

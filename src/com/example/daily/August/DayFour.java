@@ -1,4 +1,4 @@
-package com.example.daily;
+package com.example.daily.August;
 
 /**
  * 43. 字符串相乘
