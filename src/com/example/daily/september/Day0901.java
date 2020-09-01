@@ -11,6 +11,8 @@ package com.example.daily.september;
  */
 public class Day0901 {
 
+    //revert test
+
     public static void main(String[] args) {
         int[] nums = new int[]{1, 5, 233,7};
         boolean winner = PredictTheWinner(nums);
